@@ -1,6 +1,6 @@
 # React Accordion
 
-Check it out [here!]()
+Check it out [here!](https://ianbrdeguzman.github.io/react-accordion/)
 
 ## Created using:
 
